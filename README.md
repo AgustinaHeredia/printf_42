@@ -7,10 +7,9 @@ El proyecto `ft_printf` es una implementación personalizada de la función `pri
 1. [Introducción](#introducción)
 2. [Uso](#uso)
 3. [Compilación](#compilación)
-4. [Estructura de carpetas](#estructura-de-carpetas)
-5. [Formato admitido](#formato-admitido)
-6. [Colaboración](#colaboración)
-7. [Licencia](#licencia)
+4. [Formato admitido](#formato-admitido)
+5. [Calificación](#calificación)
+
 
 ## Introducción
 
@@ -41,5 +40,11 @@ gcc -o programa *.o -L. -lftprintf
 Asegurando de vincular con la implementación de ft_printf.
 
 
-#Formato admitido
+#formato-admitido
 El proyecto admite un conjunto básico de especificadores de formato, como %s, %d, %c, etc. Consulta el archivo ft_printf.h para obtener más detalles sobre los formatos admitidos.
+
+#calificación
+
+<img width="882" alt="Captura de pantalla 2024-01-22 a las 20 18 42" src="https://github.com/AgustinaHeredia/printf_42/assets/119814051/38a805af-0499-4af2-975a-104eb977e085">
+
+Puedes seguir mi progreso en 42 en https://profile.intra.42.fr/users/agheredi
