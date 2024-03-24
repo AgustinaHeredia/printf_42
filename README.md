@@ -28,7 +28,7 @@ int main(void)
     return 0;
 }
 ```
-#Compilación
+## Compilación
 Este proyecto lo he incluido en mi libft tras aprovarlo y para la compilación utilizo el Makefile de la Libft incluyendo los archivos necesarios. 
 Se puede compilar el programa ejecutando:
 
